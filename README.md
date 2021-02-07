@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Stats](https://github-readme-stats.vercel.app/api?username=DVGY)](https://github.com/DVGY/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=DVGY&count_private=true&&show_icons=true&theme=radical)](https://github.com/DVGY/github-readme-stats)
 <!--
 **DVGY/DVGY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
