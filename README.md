@@ -2,7 +2,7 @@
 
 🐘 [My Portfolio](https://portfolio-dvgy.vercel.app/)
 
-✍️: [My Blog](https://techispapa.hashnode.dev/)
+✍️ [My Blog](https://techispapa.hashnode.dev/)
 
 
 [![](https://github-readme-stats.vercel.app/api?username=DVGY&count_private=true&&show_icons=true&theme=radical)](https://github.com/DVGY/github-readme-stats)
