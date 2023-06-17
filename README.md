@@ -25,10 +25,22 @@
 ###
 
 <div align="left">
-  <a href='https://techispapa.hashnode.dev/' target="_blank" rel="noopener noreferrer">
+    <a href='https://techispapa.hashnode.dev/' target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" height="35" alt="Portfolio logo"  />
+    </a>
+  
+  <a href='https://portfolio-techispapa.vercel.app/' target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+
+   <a href='https://www.linkedin.com/in/g-dvgy/' target="_blank" rel="noopener noreferrer">
+     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+   </a>
+
+  <a  href='https://twitter.com/techispapa' target="_blank" rel="noopener noreferrer">
+     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35" alt="linkedin logo"  />
+  </a>
+
 </div>
 
 ###
