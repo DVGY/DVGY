@@ -25,10 +25,9 @@
 ###
 
 <div align="left">
-  <img alt="Website" src="https://img.shields.io/website">
-
-  <img src="https://img.shields.io/static/v1?message=website&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  
+  <a href='https://techispapa.hashnode.dev/' target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
