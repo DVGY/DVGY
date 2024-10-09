@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🐘 [My Portfolio](https://portfolio-techispapa.vercel.app/)
+🐘 [My Portfolio](https://portfolio-one-livid.vercel.app/)
 
 ✍️ [My Blog](https://techispapa.hashnode.dev/)
 
